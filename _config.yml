@@ -1,6 +1,6 @@
-title:        Wearables APIs
-url:          http://wearables.stack.network
-logo:         https://s3.amazonaws.com/kinlane-productions/api-stack/logos/api-stack-wearables.png
+title:        Accounting APIs
+url:          http://accounting.stack.network
+logo:         https://s3.amazonaws.com/kinlane-productions/api-stack/logos/api-stack-accounting.png
 logo_width:   80
 logo_bottom_padding: 0
 
@@ -18,15 +18,15 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 paginate: 500
 paginate_path: "/news/page:num"
 
-production_url : http://wearables.stack.network
+production_url : http://accounting.stack.network
 
-BASE_PATH : http://wearables.stack.network
+BASE_PATH : http://accounting.stack.network
 
 categories_path : /categories.html
 tags_path : /tags.html
 
 # Masthead title
-masthead_link: http://wearables.stack.network
+masthead_link: http://accounting.stack.network
 masthead_font_size: 75
 masthead_title: '{"API Aggregation"}'
 
@@ -37,8 +37,8 @@ feature_image_source: https://s3.amazonaws.com/kinlane-productions/whitepapers/3
 feature_image_width: 45
 
 # Project
-project_image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-wearables.png
-project_summary: Research into wearables APIs.
+project_image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-accounting.png
+project_summary: Research into accounting APIs.
 
 # Navigation
 navigation:
